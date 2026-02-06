@@ -1,7 +1,7 @@
 Software License Notice
 Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International
 (CC BY-NC-ND 4.0)
-Copyright © [YEAR] [AUTHOR / COMPANY / PROJECT NAME].
+Copyright © 2025 Independence / Project Borealis / Project Hurricane.
 All rights reserved.
 1. License Grant
 This software is licensed under the Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
